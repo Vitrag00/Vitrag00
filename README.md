@@ -1,21 +1,46 @@
-# 💫 About Me:
-i m currently working on bug bounty<br> i want to become a ethical hacker <br>i have completed courses for the same from udemy <br>i m studying at SPIT <br>
+# 👨‍💻 Vitrag Shah — Aspiring Ethical Hacker | Cybersecurity Builder | Python Automator
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= Vitrag00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= Vitrag00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= Vitrag00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username= Vitrag00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Welcome to my GitHub! I'm a final-year Computer Engineering student at **Sardar Patel Institute of Technology**, with a burning passion for **ethical hacking, offensive security**, and building my own custom hacking tools.
 
 ---
-[![](https://visitcount.itsvg.in/api?id= Vitrag00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔒 What I Do
+- 🧠 Learn and simulate real-world attacks (SQLi, XSS, MITM, PrivEsc)
+- 🛠️ Build offensive security tools using **Python**, **Bash**, and **Linux**
+- 🐞 Actively practice **bug bounty hunting** on platforms like PortSwigger and TryHackMe
+- 🧪 Run my own **Kali Linux-based hacking lab** with DVWA, Juice Shop, and Metasploitable
+
+---
+
+## 🚀 Projects I'm Proud Of
+- 🎯 `ckShell-Offensive-Suite` — A metasploit-style CLI for automated hacking tasks  
+- 💬 `Networking-ChatApp` — End-to-end encrypted chat system in Python  
+- 🔍 `Bug-Bounty-Recon-Scripts` — Subdomain + HTTP probe + nuclei scanner  
+- 📡 `Packet-Sniffer-Python` — Custom sniffer built with Scapy and PyShark
+
+---
+
+## 🎓 Certifications & Learning
+- ✅ Bug Bounty Hunting for Beginners – Udemy
+- ✅ Ethical Hacking Bootcamp – Udemy
+- 📚 Preparing for PNPT / OSCP
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-blue?style=flat&logo=gnubash)
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat&logo=linux)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat&logo=burpsuite)
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: vitragshaph1104@gmail.com
+- 🧠 TryHackMe: `Vitrag00`
+- 🌐 LinkedIn: [linkedin.com/in/vitragshah](https://linkedin.com/in/vitragshah)
+
+---
+
+> “Stay curious, stay ethical. Tools break, logic wins.”  
