@@ -9,14 +9,12 @@ Welcome to my GitHub! I'm a final-year Computer Engineering student at **Sardar 
 - 🛠️ Build offensive security tools using **Python**, **Bash**, and **Linux**
 - 🐞 Actively practice **bug bounty hunting** on platforms like PortSwigger and TryHackMe
 - 🧪 Run my own **Kali Linux-based hacking lab** with DVWA, Juice Shop, and Metasploitable
-
+- 
 ---
 
 ## 🚀 Projects I'm Proud Of
 - 🎯 `ckShell-Offensive-Suite` — A metasploit-style CLI for automated hacking tasks  
 - 💬 `Networking-ChatApp` — End-to-end encrypted chat system in Python  
-- 🔍 `Bug-Bounty-Recon-Scripts` — Subdomain + HTTP probe + nuclei scanner  
-- 📡 `Packet-Sniffer-Python` — Custom sniffer built with Scapy and PyShark
 
 ---
 
@@ -36,7 +34,9 @@ Welcome to my GitHub! I'm a final-year Computer Engineering student at **Sardar 
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cpp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![Perl](https://img.shields.io/badge/-Perl-9C27B0?style=flat&logo=perl)
+![Awk](https://img.shields.io/badge/-Awk-yellow?style=flat)
+
 
 ### 🔐 Cybersecurity & Pentesting
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-black?style=flat&logo=kalilinux)
