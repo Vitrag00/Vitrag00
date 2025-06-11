@@ -28,11 +28,40 @@ Welcome to my GitHub! I'm a final-year Computer Engineering student at **Sardar 
 ---
 
 ## 🛠️ Tech Stack
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-blue?style=flat&logo=gnubash)
-![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat&logo=linux)
-![Kali](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=kalilinux)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat&logo=burpsuite)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk)
+![C](https://img.shields.io/badge/-C-lightgrey?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cpp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+
+### 🔐 Cybersecurity & Pentesting
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-black?style=flat&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-orange?style=flat&logo=burpsuite)
+![Nmap](https://img.shields.io/badge/-Nmap-blue?style=flat&logo=nmap)
+![Wireshark](https://img.shields.io/badge/-Wireshark-royalblue?style=flat&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/-Metasploit-lightblue?style=flat)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode)
+![LaTeX](https://img.shields.io/badge/-LaTeX-darkblue?style=flat&logo=latex)
+
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+
+### 📚 Libraries & APIs
+![Scapy](https://img.shields.io/badge/-Scapy-grey?style=flat)
+![PyShark](https://img.shields.io/badge/-PyShark-grey?style=flat)
+![Requests](https://img.shields.io/badge/-Requests-black?style=flat)
+![Subprocess](https://img.shields.io/badge/-Subprocess-black?style=flat)
+![RE](https://img.shields.io/badge/-Regex-black?style=flat)
+
 
 ---
 
